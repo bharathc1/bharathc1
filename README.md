@@ -8,8 +8,9 @@ Product marketing at Collate. I build my GTM work with Claude Code — skills, r
 - Publishing the reusable ones here — swap in your own product's context and they should mostly just work
 
 **Repos:**
-- [claude-gtm-skills](https://github.com/bharathc1/claude-gtm-skills) — PMM/messaging review skills: ICP-based content scoring, landing-page copy review, a positioning-strategist persona
+- [claude-gtm-skills](https://github.com/bharathc1/claude-gtm-skills) — PMM/messaging review skills: ICP-based content scoring, a publication-gate content evaluator, landing-page copy review, a positioning-strategist persona
 - [claude-video-skills](https://github.com/bharathc1/claude-video-skills) — the HyperFrames skill family for building and animating video compositions with Claude
 - [claude-content-skills](https://github.com/bharathc1/claude-content-skills) — writing/editing skills (de-slopping drafts, diagram design)
+- [fable-pmm-skills](https://github.com/bharathc1/fable-pmm-skills) — corpus-scale PMM skills (positioning, battlecards, win/loss, objections), authored by Jenna Potter, republished here with credit
 
 <!-- Add your own links here: LinkedIn, X, personal site, etc. -->
