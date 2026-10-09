@@ -12,5 +12,6 @@ Product marketing at Collate. I build my GTM work with Claude Code — skills, r
 - [claude-video-skills](https://github.com/bharathc1/claude-video-skills) — the HyperFrames skill family for building and animating video compositions with Claude
 - [claude-content-skills](https://github.com/bharathc1/claude-content-skills) — writing/editing skills (de-slopping drafts, diagram design)
 - [fable-pmm-skills](https://github.com/bharathc1/fable-pmm-skills) — corpus-scale PMM skills (positioning, battlecards, win/loss, objections), authored by Jenna Potter, republished here with credit
+- [token-efficiency-explainer-video](https://github.com/bharathc1/token-efficiency-explainer-video) — a narrated explainer built end to end with Claude Code, HyperFrames, and a HeyGen voice: storyboard, frames, captions, and render pipeline
 
 <!-- Add your own links here: LinkedIn, X, personal site, etc. -->
